@@ -19,7 +19,11 @@ Details: Write installation instructions and basic usage notes in the README.md 
 ## Next Sprint (Nov 12 - Dec 18)
 ### Goal: Develop and Test Core Features
 [] Task 6: Refine the add-item feature with real data input and validation.
+
 [x] Task 7: Implement functionality to remove items from inventory.
+
 [x] Task 8: Add feature to update item quantity or details.
+
 [] Task 9: Write unit tests for add, remove, and update item features.
+
 [] Task 10: Conduct code reviews and enhance code quality through refactoring and documentation.
