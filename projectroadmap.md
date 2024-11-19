@@ -16,7 +16,7 @@ Details: Develop a simple function to add items to inventory with dummy data (e.
 Details: Write installation instructions and basic usage notes in the README.md file.
 
 
-## Next Sprint (Nov 12 - Dec 18)
+## Next Sprint (Nov 12 - Nov 22)
 ### Goal: Develop and Test Core Features
 [x] Task 6: Refine the add-item feature with real data input and validation.
 
@@ -27,3 +27,9 @@ Details: Write installation instructions and basic usage notes in the README.md 
 [x] Task 9: Write unit tests for add, remove, and update item features.
 
 [x] Task 10: Conduct code reviews and enhance code quality through refactoring and documentation.
+
+[] Task 11: Set Up GUI Framework
+
+[] Task 12: Build GUI for Listing Inventory
+
+[] Task 13: Add GUI for Adding/Removing Items
